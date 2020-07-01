@@ -14,6 +14,18 @@ My book collection about databases and transaction processing.
 2. Transaction Manager Administrator's Guide
 ![Transaction Manager Administrator's Guide](/assets/images/IMG_0049_r.jpg)
 
+3. Transaction Manager Reference Manual
+![Transaction Manager Reference Manual](/assets/images/IMG_0050_r.jpg)
+
+4. Transaction Manager Programmer's Guide
+![Transaction Manager Programmer's Guide](/assets/images/IMG_0051_r.jpg)
+
+5. Application Development Guide
+![Application Development Guide](/assets/images/IMG_0052_r.jpg)
+
+6. FML Programmer's Guide
+![FML Programmer's Guide](/assets/images/IMG_0053_r.jpg)
+
 #### Novell Tuxedo System books:
 
 1. Administration Guide

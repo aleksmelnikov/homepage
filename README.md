@@ -2,11 +2,11 @@
 
 It's my personal page. Here I will show my developments.
 
-# Book collection
+# *Book collection
 
 My book collection about databases and transaction processing.
 
-### Unix System Laboratories Tuxedo System books
+### *Unix System Laboratories Tuxedo System books
 
 1. Product Overview and Master Index
 ![Product Overview and Master Index](/assets/images/IMG_0048_r.jpg)

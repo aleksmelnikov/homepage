@@ -4,6 +4,8 @@ It's a my personal page. Here I will show my developments.
 
 ### Book collection
 
+My book collection about databases.
+
 #### Oracle v5 books:
 
 1. SQL*Plus User's Guide Version 2.0

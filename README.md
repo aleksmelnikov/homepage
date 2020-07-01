@@ -7,7 +7,7 @@ It's a my personal page. Here I will show my developments.
 Oracle 5 books:
 
 1. SQL*Plus User's Guide Version 2.0
-![SQL*Plus User's guide Version 2.0](/assets/images/IMG_0036_r.JPG){:height="50%" width="50%"}
+![SQL*Plus User's guide Version 2.0](/assets/images/IMG_0036_r.JPG)
 
 2. SQL*Plus Designer's Reference Version 2.0
 ![SQL*Plus Designer's Reference Version 2.0](/assets/images/IMG_0039_r.JPG)

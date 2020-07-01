@@ -1,10 +1,8 @@
-## Welcome to my personal page
+# Welcome to my personal page
 
 It's my personal page. Here I will show my developments.
 
-### -
-
-### Book collection
+# Book collection
 
 My book collection about databases and transaction processing.
 

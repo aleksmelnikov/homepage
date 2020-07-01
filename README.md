@@ -1,4 +1,4 @@
-## Section 1
+## Welcome to my personal page
 
 Text 1
 

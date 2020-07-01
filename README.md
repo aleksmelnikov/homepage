@@ -9,7 +9,7 @@ My book collection about databases and transaction processing.
 #### Unix system Laboratories Tuxedo System books:
 
 1. Product Overview and Master Index
-![Product Overview and Master Index](/assets/images/IMG_0048_r.JPG)
+![Product Overview and Master Index](/assets/images/IMG_0048_r.jpg)
 
 #### Novell Tuxedo System books:
 

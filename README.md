@@ -26,7 +26,7 @@ My book collection about databases and transaction processing.
 6. FML Programmer's Guide
 ![FML Programmer's Guide](/assets/images/IMG_0053_r.jpg)
 
-#### Novell Tuxedo System books:
+### Novell Tuxedo System books:
 
 1. Administration Guide
 ![Administration Guide](/assets/images/IMG_0046_r.jpg) 
@@ -34,7 +34,7 @@ My book collection about databases and transaction processing.
 2. Application Development and Administration
 ![Application Development and Administration](/assets/images/IMG_0047_r.jpg)
 
-#### Oracle v5 books:
+### Oracle v5 books:
 
 1. SQL*Plus User's Guide Version 2.0
 ![SQL*Plus User's guide Version 2.0](/assets/images/IMG_0036_r.JPG)
@@ -51,7 +51,7 @@ My book collection about databases and transaction processing.
 5. Oracle Database Administrator's Guide Version 5.1
 ![Oracle Database Administrator's Guide Version 5.1](/assets/images/IMG_0044_r.JPG)
 
-#### Oracle v6 books:
+### Oracle v6 books:
 
 1. Database Administrator's Guide
 ![Database Administrator's Guide](/assets/images/IMG_0063_r.JPG)

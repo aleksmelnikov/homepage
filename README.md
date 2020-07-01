@@ -1,6 +1,6 @@
 ## Welcome to my personal page
 
-Text 1
+It's a my personal page. Here I will show my developments.
 
 ### Book collection
 

@@ -7,7 +7,7 @@ Text 1
 Oracle 5 books:
 
 1. SQL*Plus User's Guide Version 2.0
-![SQL*Plus User's guide Version 2.0](/assets/images/IMG_0036_r.JPG)
+![SQL*Plus User's guide Version 2.0 class=thumbnail](/assets/images/IMG_0036_r.JPG)
 
 2. SQL*Plus Designer's Reference Version 2.0
 ![SQL*Plus Designer's Reference Version 2.0](/assets/images/IMG_0039_r.JPG)

@@ -11,6 +11,9 @@ My book collection about databases and transaction processing.
 1. Product Overview and Master Index
 ![Product Overview and Master Index](/assets/images/IMG_0048_r.jpg)
 
+2. Transaction Manager Administrator's Guide
+![Transaction Manager Administrator's Guide](/assets/images/IMG_0049_r.jpg)
+
 #### Novell Tuxedo System books:
 
 1. Administration Guide

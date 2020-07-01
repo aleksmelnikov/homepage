@@ -9,7 +9,6 @@ My book collection about databases and transaction processing.
 #### Novell Tuxedo System books:
 
 1. Administration Guide
-
 ![Administration Guide](/assets/images/IMG_0046_r.jpg) 
 
 2. Application Development and Administration

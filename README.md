@@ -10,6 +10,6 @@ Text 2
 
 Text 3
 
-### Section 4
+### Book collection
 
 Text 4

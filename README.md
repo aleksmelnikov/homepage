@@ -4,7 +4,7 @@ It's a my personal page. Here I will show my developments.
 
 ### Book collection
 
-My book collection about databases.
+My book collection about databases and transaction processing.
 
 #### Oracle v5 books:
 

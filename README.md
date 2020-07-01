@@ -6,6 +6,14 @@ It's a my personal page. Here I will show my developments.
 
 My book collection about databases and transaction processing.
 
+#### Novell Tuxedo Systems books:
+
+1. Administration Guide
+![Administration Guide](/assets/images/IMG_0046_r.jpg) 
+
+2. Application Development and Administration
+![Application Development and Administration](/assets/images/IMG_0047_r.jpg)
+
 #### Oracle v5 books:
 
 1. SQL*Plus User's Guide Version 2.0

@@ -6,7 +6,7 @@ It's a my personal page. Here I will show my developments.
 
 My book collection about databases and transaction processing.
 
-#### Novell Tuxedo Systems books:
+#### Novell Tuxedo System books:
 
 1. Administration Guide
 ![Administration Guide](/assets/images/IMG_0046_r.jpg) 

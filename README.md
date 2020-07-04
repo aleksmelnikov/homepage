@@ -73,5 +73,57 @@ My book collection about databases and transaction processing.
 
 ### Progress v7 books
 
-1. Database Administrator's Guide
-![Database Administrator's Guide](/assets/images/IMG_0063_r.JPG)
+1. System Administration Guide
+![System Administration Guide](/assets/images/IMG_0091.JPG)
+
+2. System Administration Reference
+![System Administration Reference](/assets/images/IMG_0092.JPG)
+
+3. Programming Handbook
+![Programming Handbook](/assets/images/IMG_0094.JPG)
+
+4. Language Tutorial
+![Language Tutorial](/assets/images/IMG_0095.JPG)
+
+5. Basic Develompent Tools
+![Basic Develompent Tools](/assets/images/IMG_0097.JPG)
+![Basic Develompent Tools](/assets/images/IMG_0105.JPG)
+
+6. Toolset tutorial
+![Toolset tutorial](/assets/images/IMG_0099.JPG)
+
+7. Extended Development Tools
+![Extended Development Tools](/assets/images/IMG_0100.JPG)
+
+8. Pocket Progress
+![Pocket Progress](/assets/images/IMG_0101.JPG)
+
+9. Language Reference Volume 1
+![Language Reference Volume 1](/assets/images/IMG_0102.JPG)
+
+10. Language Reference Volume 2
+![Language Reference Volume 1](/assets/images/IMG_0103.JPG)
+
+11. Report Builder
+![Report Builder](/assets/images/IMG_0104.JPG)
+
+12. Database Design Guide
+![Database Design Guide](/assets/images/IMG_0106.JPG)
+
+13. Network Guide
+![Network Guide](/assets/images/IMG_0107.JPG)
+
+14. Portability Guide
+![Portability Guide](/assets/images/IMG_0109.JPG)
+
+15. Master Index and Glossary
+![Master Index and Glossary](/assets/images/IMG_0110.JPG)
+
+15. External Program Interface
+![External Program Interface](/assets/images/IMG_0112.JPG)
+
+16. Help Development Guide
+![Help Development Guide](/assets/images/IMG_0113.JPG)
+
+17. Migrating Character Applications from Progress v6 to v7
+![Migrating Character Applications from Progress v6 to v7](/assets/images/IMG_0116.JPG)

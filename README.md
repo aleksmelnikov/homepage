@@ -83,7 +83,7 @@ My book collection about databases and transaction processing.
 ![Programming Handbook](/assets/images/IMG_0094.jpg)
 
 4. Language Tutorial
-![Language Tutorial](/assets/images/IMG_0095.JPG)
+![Language Tutorial](/assets/images/IMG_0095.jpg)
 
 5. Basic Develompent Tools
 ![Basic Develompent Tools](/assets/images/IMG_0097.JPG)

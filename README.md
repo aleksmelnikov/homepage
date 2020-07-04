@@ -77,10 +77,10 @@ My book collection about databases and transaction processing.
 ![System Administration Guide](/assets/images/IMG_0091.jpg)
 
 2. System Administration Reference
-![System Administration Reference](/assets/images/IMG_0092.JPG)
+![System Administration Reference](/assets/images/IMG_0092.jpg)
 
 3. Programming Handbook
-![Programming Handbook](/assets/images/IMG_0094.JPG)
+![Programming Handbook](/assets/images/IMG_0094.jpg)
 
 4. Language Tutorial
 ![Language Tutorial](/assets/images/IMG_0095.JPG)

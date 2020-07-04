@@ -96,7 +96,7 @@ My book collection about databases and transaction processing.
 ![Extended Development Tools](/assets/images/IMG_0100.jpg)
 
 8. Pocket Progress
-![Pocket Progress](/assets/images/IMG_0101.JPG)
+![Pocket Progress](/assets/images/IMG_0101.jpg)
 
 9. Language Reference Volume 1
 ![Language Reference Volume 1](/assets/images/IMG_0102.JPG)

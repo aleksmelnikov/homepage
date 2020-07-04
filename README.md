@@ -70,3 +70,8 @@ My book collection about databases and transaction processing.
 
 6. PL/SQL User's Guide and Reference
 ![Utilities User's Guide](/assets/images/IMG_0090_r.JPG)
+
+### Progress v7 books
+
+1. Database Administrator's Guide
+![Database Administrator's Guide](/assets/images/IMG_0063_r.JPG)

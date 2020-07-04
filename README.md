@@ -53,4 +53,4 @@ My book collection about databases and transaction processing.
 
 ### Oracle v6 books
 
-[Oracle v6 books](https://github.com/aleksmelnikov/homepage/blob/master/collection/oracle_v6.md)
+[Oracle v6 books](https://aleksmelnikov.github.io/homepage/collection/oracle_v6.md)

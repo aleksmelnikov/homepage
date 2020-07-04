@@ -93,7 +93,7 @@ My book collection about databases and transaction processing.
 ![Toolset tutorial](/assets/images/IMG_0099.jpg)
 
 7. Extended Development Tools
-![Extended Development Tools](/assets/images/IMG_0100.JPG)
+![Extended Development Tools](/assets/images/IMG_0100.jpg)
 
 8. Pocket Progress
 ![Pocket Progress](/assets/images/IMG_0101.JPG)

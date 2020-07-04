@@ -114,7 +114,7 @@ My book collection about databases and transaction processing.
 ![Network Guide](/assets/images/IMG_0107.JPG)
 
 14. Portability Guide
-![Portability Guide](/assets/images/IMG_0109.JPG)
+![Portability Guide](/assets/images/IMG_0109.jpg)
 
 15. Master Index and Glossary
 ![Master Index and Glossary](/assets/images/IMG_0110.JPG)

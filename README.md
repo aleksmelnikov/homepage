@@ -102,7 +102,7 @@ My book collection about databases and transaction processing.
 ![Language Reference Volume 1](/assets/images/IMG_0102.JPG)
 
 10. Language Reference Volume 2
-![Language Reference Volume 1](/assets/images/IMG_0103.JPG)
+![Language Reference Volume 2](/assets/images/IMG_0103.jpg)
 
 11. Report Builder
 ![Report Builder](/assets/images/IMG_0104.JPG)

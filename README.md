@@ -1,6 +1,6 @@
 # Welcome
 
-It's my personal page. Here I will show my developments and interests.
+It's my personal page. Here I will show my interests and developments.
 
 # Book collection
 

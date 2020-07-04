@@ -90,7 +90,7 @@ My book collection about databases and transaction processing.
 ![Basic Develompent Tools](/assets/images/IMG_0105.JPG)
 
 6. Toolset tutorial
-![Toolset tutorial](/assets/images/IMG_0099.JPG)
+![Toolset tutorial](/assets/images/IMG_0099.jpg)
 
 7. Extended Development Tools
 ![Extended Development Tools](/assets/images/IMG_0100.JPG)

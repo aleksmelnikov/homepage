@@ -105,7 +105,7 @@ My book collection about databases and transaction processing.
 ![Language Reference Volume 2](/assets/images/IMG_0103.jpg)
 
 11. Report Builder
-![Report Builder](/assets/images/IMG_0104.JPG)
+![Report Builder](/assets/images/IMG_0104.jpg)
 
 12. Database Design Guide
 ![Database Design Guide](/assets/images/IMG_0106.JPG)

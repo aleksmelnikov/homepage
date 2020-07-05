@@ -73,14 +73,14 @@ My book collection about databases and transaction processing.
 
 ### Progress v7 books
 
-1. System Administration Guide
-![System Administration Guide](/assets/images/IMG_0091.JPG)
+1. System Administration Reference
+![System Administration Reference](/assets/images/IMG_0118.JPG)
 
-2. System Administration Reference
-![System Administration Reference](/assets/images/IMG_0092.JPG)
+2. System Administration Guide
+![System Administration Guide](/assets/images/IMG_0119.JPG)
 
 3. Programming Handbook
-![Programming Handbook](/assets/images/IMG_0094.JPG)
+![Programming Handbook](/assets/images/IMG_0121.JPG)
 
 4. Language Tutorial
 ![Language Tutorial](/assets/images/IMG_0095.JPG)

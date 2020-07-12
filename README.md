@@ -140,6 +140,6 @@ My book collection about databases and transaction processing.
 
 <!--
 <a href="assets/images/IMG_0142.JPG"> 
--->
   <img src="assets/images/IMG_0142.JPG" width="50%" height="50%" /img> 
 </a>
+-->

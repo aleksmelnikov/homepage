@@ -1,10 +1,10 @@
-# Welcome
-=========
+Welcome
+=======
 
 It's my personal page. Here I show my interests and developments.
 
-# Book collection
-=================
+Book collection
+===============
 
 My book collection about databases and transaction processing.
 

@@ -134,5 +134,5 @@ My book collection about databases and transaction processing.
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ![Migrating Character Applications from Progress v6 to v7](/assets/images/IMG_0142.JPG)  | Content Cell  |
+

@@ -1,5 +1,5 @@
-Welcome
-=======
+About
+=====
 
 It's my personal page. Here I show my interests and developments.
 

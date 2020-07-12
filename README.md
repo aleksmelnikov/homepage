@@ -132,4 +132,4 @@ My book collection about databases and transaction processing.
 18. Migrating Character Applications from Progress v6 to v7
 ![Migrating Character Applications from Progress v6 to v7](/assets/images/IMG_0142.JPG)
 
-<img src="/assets/images/IMG_0142.JPG" width="200" height="200" />
+<img src="assets/images/IMG_0142.JPG" width="200" height="200" />

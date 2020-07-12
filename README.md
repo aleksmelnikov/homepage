@@ -130,6 +130,7 @@ My book collection about databases and transaction processing.
 ![Database Design Guide](/assets/images/IMG_0139.JPG)
 
 18. Migrating Character Applications from Progress v6 to v7
-<div style="width:150px; height:100px">
 ![Migrating Character Applications from Progress v6 to v7](/assets/images/IMG_0142.JPG)
-</div>
+
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)

@@ -132,6 +132,6 @@ My book collection about databases and transaction processing.
 18. Migrating Character Applications from Progress v6 to v7
 ![Migrating Character Applications from Progress v6 to v7](/assets/images/IMG_0142.JPG)
 
-[![Migrating Character Applications from Progress v6 to v7(/assets/images/IMG_0142_PREVIEW.JPG)](/assets/images/IMG_0142.JPG)
+[![Migrating Character Applications from Progress v6 to v7](/assets/images/IMG_0142_PREVIEW.JPG)](/assets/images/IMG_0142.JPG)
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)

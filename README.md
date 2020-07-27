@@ -56,8 +56,8 @@ My book collection about databases and transaction processing.
 6. SQL*Plus User's Guide Version 2.0
 ![SQL*Plus User's guide Version 2.0](/assets/images/IMG_0036.JPG)
 
-7. SQL*Plus Designer's Reference Version 2.0
-![SQL*Plus Designer's Reference Version 2.0](/assets/images/IMG_0039.JPG)
+7. SQL*Forms Designer's Reference Version 2.0
+![SQL*Forms Designer's Reference Version 2.0](/assets/images/IMG_0039.JPG)
 
 8. SQL*Report User's Guide Version 1.0
 ![SQL*Report User's Guide Version 1.0](/assets/images/IMG_0042.JPG)

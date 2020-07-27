@@ -38,20 +38,32 @@ My book collection about databases and transaction processing.
 
 ### Oracle v5 books
 
-1. SQL*Plus User's Guide Version 2.0
+1. Oracle Database Administrator's Guide Version 5.1
+![Oracle Database Administrator's Guide Version 5.1](/assets/images/IMG_0167.JPG)
+
+2. Oracle Error messages and Codes Manual Version 5.1
+![Oracle Error messages and Codes Manual Version 5.1](/assets/images/IMG_0165.JPG)
+
+3. Pro*C User's Guide Version 1.1
+![Pro*C User's Guide Version 1.1](/assets/images/IMG_0164.JPG)
+
+4. Pro*C for MS-DOS Version 1.2
+![Pro*C for MS-DOS Version 1.2](/assets/images/IMG_0163.JPG)
+
+5. SQL*Loader User's Guide Version 1.0
+![SQL*Loader User's Guide Version 1.0](/assets/images/IMG_0162.JPG)
+
+6. SQL*Plus User's Guide Version 2.0
 ![SQL*Plus User's guide Version 2.0](/assets/images/IMG_0036.JPG)
 
-2. SQL*Plus Designer's Reference Version 2.0
+7. SQL*Plus Designer's Reference Version 2.0
 ![SQL*Plus Designer's Reference Version 2.0](/assets/images/IMG_0039.JPG)
 
-3. SQL*Report User's Guide Version 1.0
+8. SQL*Report User's Guide Version 1.0
 ![SQL*Report User's Guide Version 1.0](/assets/images/IMG_0042.JPG)
 
-4. PL/SQL User's Guide and Reference Version 1.0
+9. PL/SQL User's Guide and Reference Version 1.0
 ![PL/SQL User's Guide and Reference Version 1.0](/assets/images/IMG_0043.JPG)
-
-5. Oracle Database Administrator's Guide Version 5.1
-![Oracle Database Administrator's Guide Version 5.1](/assets/images/IMG_0044.JPG)
 
 ### Oracle v6 books
 
